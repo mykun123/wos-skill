@@ -1,5 +1,7 @@
 # WOS Batch Export Skill
 
+> **⚠️ CAPTCHA Notice:** During execution, you may encounter 1–2 CAPTCHA challenges. This is normal and **does not break the script** — it will pause and prompt you to solve it manually, then continue automatically after you press Enter.
+
 ## Script Location
 
 ```
